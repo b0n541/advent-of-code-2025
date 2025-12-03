@@ -17,3 +17,7 @@ tasks {
 kotlin {
     jvmToolchain(21)
 }
+
+dependencies {
+    implementation("org.assertj:assertj-core:3.27.6")
+}
