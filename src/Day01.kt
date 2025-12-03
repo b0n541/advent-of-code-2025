@@ -96,5 +96,5 @@ fun main() {
     part1(input).println()
 
     check(part2(testInput) == 6)
-    part2(input).println() // > 5956 && < 6582
+    part2(input).println()
 }
